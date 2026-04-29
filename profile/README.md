@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # HAPS Collaboration
 
 **HAPS Collaboration** (*Hadron and Partonic Structure Collaboration*) is a research collaboration focused on precision QCD studies of hadron and partonic structure.
