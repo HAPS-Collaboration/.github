@@ -1,0 +1,2 @@
+# .github
+HAPS Collaboration
