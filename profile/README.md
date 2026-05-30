@@ -6,15 +6,9 @@ Its scientific program includes global analyses and phenomenological investigati
 
 The collaboration aims to advance a more quantitative understanding of hadron structure by combining modern theoretical frameworks, data-driven methodologies, and precision phenomenology.
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HAPS--pPDF1.0-Polarized%20PDF%20Set-blue?style=for-the-badge" alt="HAPS-pPDF1.0">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HAPS--pPDF1.0-Polarized%20PDF%20Set-0A66C2?style=for-the-badge" alt="HAPS-pPDF1.0">
-</p>
-
-# HAPS-pPDF1.0
 
 **HAPS-pPDF1.0** is a polarized parton distribution function set developed within the **HAPS Collaboration**
 
