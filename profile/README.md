@@ -6,7 +6,9 @@ Its scientific program includes global analyses and phenomenological investigati
 
 The collaboration aims to advance a more quantitative understanding of hadron structure by combining modern theoretical frameworks, data-driven methodologies, and precision phenomenology.
 
-<h1 style="color:blue;">HAPS-pPDF1.0</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/HAPS--pPDF1.0-Polarized%20PDF%20Set-blue?style=for-the-badge" alt="HAPS-pPDF1.0">
+</p>
 
 # HAPS-pPDF1.0
 
