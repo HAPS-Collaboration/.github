@@ -29,3 +29,9 @@ The collaboration aims to advance a more quantitative understanding of hadron st
 
 HAPS-pPDF1.0 provides polarized proton PDFs extracted from a global analysis of longitudinally polarized inclusive DIS and charge-separated SIDIS data, including projected Electron-Ion Collider SIDIS pseudodata.
 
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HAPS--pPDF1.0-Polarized%20PDF%20Set-blue?style=for-the-badge" alt="HAPS-hFFs1.0">
+</p>
+
