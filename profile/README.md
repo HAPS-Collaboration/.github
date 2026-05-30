@@ -6,9 +6,7 @@ Its scientific program includes global analyses and phenomenological investigati
 The collaboration aims to advance a more quantitative understanding of hadron structure by combining modern theoretical frameworks, data-driven methodologies, and precision phenomenology.
 
 <br>
-
 ---
-
 <br>
 
 <p align="left">
@@ -35,9 +33,7 @@ HAPS-pPDF1.0 provides polarized proton PDFs extracted from a global analysis of 
 
 
 <br>
-
 ---
-
 <br>
 
 <p align="left">
