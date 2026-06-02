@@ -40,9 +40,6 @@ HAPS-pPDF1.0 provides polarized proton PDFs extracted from a global analysis of 
 
 <br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HAPS--hFF1.0-Unidentified%20Charged--Hadron%20FF%20Set-red?style=for-the-badge" alt="HAPS-hFF1.0">
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HAPS--hFF1.0-Unidentified%20Charged--Hadron%20FF%20Set-red?style=for-the-badge" alt="HAPS-hFF1.0">
