@@ -44,3 +44,26 @@ HAPS-pPDF1.0 provides polarized proton PDFs extracted from a global analysis of 
   <img src="https://img.shields.io/badge/HAPS--hFF1.0-Unidentified%20Charged--Hadron%20FF%20Set-red?style=for-the-badge" alt="HAPS-hFF1.0">
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HAPS--hFF1.0-Unidentified%20Charged--Hadron%20FF%20Set-red?style=for-the-badge" alt="HAPS-hFF1.0">
+</p>
+
+**HAPS-hFF1.0** is an unidentified charged-hadron fragmentation function set developed within the **HAPS Collaboration**.
+
+> **Revisiting Unidentified Charged-Hadron Fragmentation Functions with Modern COMPASS SIDIS Multiplicities**
+> Maryam Soleymaninia, Hamzeh Khanpour, Hubert Spiesberger, Majid Azizi, Michael Klasen, and Hadi Hashamipour
+
+## Paper
+
+* **Title:** Revisiting Unidentified Charged-Hadron Fragmentation Functions with Modern COMPASS SIDIS Multiplicities
+* **Authors:** Maryam Soleymaninia, Hamzeh Khanpour, Hubert Spiesberger, Majid Azizi, Michael Klasen, and Hadi Hashamipour
+* **arXiv:** https://arxiv.org/abs/2605.31325
+* **INSPIRE:** https://inspirehep.net/literature/3162974
+* **DOI:**
+* **LHAPDF grids:** https://github.com/HAPS-Collaboration/HAPS-hFF1.0
+
+## Physics scope
+
+HAPS-hFF1.0 provides unidentified charged-hadron fragmentation functions extracted from a global QCD analysis of single-inclusive electron-positron annihilation data together with modern COMPASS semi-inclusive deep-inelastic scattering multiplicities. 
+The analysis includes both NLO and NNLO extractions and studies the impact of the updated COMPASS SIDIS measurements on the flavor separation and perturbative stability of charged-hadron fragmentation functions. 
+
